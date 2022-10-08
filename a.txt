@@ -1,0 +1,25 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 24E4-86DF
+
+ Directory of C:\del\delete\del
+
+10/08/2022  06:43 PM    <DIR>          .
+10/08/2022  06:43 PM    <DIR>          ..
+10/08/2022  06:43 PM                 0 a.txt
+10/08/2022  06:42 PM                13 README.md
+               2 File(s)             13 bytes
+               2 Dir(s)  72,269,426,688 bytes free
+ Volume in drive C has no label.
+ Volume Serial Number is 24E4-86DF
+
+ Directory of C:\del\delete\del
+
+10/08/2022  06:43 PM    <DIR>          .
+10/08/2022  06:43 PM    <DIR>          ..
+10/08/2022  06:43 PM               387 a.txt
+10/08/2022  06:42 PM                13 README.md
+               2 File(s)            400 bytes
+               2 Dir(s)  72,268,509,184 bytes free
+M	a.txt
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
