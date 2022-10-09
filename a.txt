@@ -24,4 +24,8 @@ M	a.txt
 Your branch is ahead of 'origin/main' by 1 commit.
   (use "git push" to publish your local commits)
 Already up to date.
+<<<<<<< HEAD
 1Already up to date.
+=======
+0Already up to date.
+>>>>>>> 2600a378c182fc4e09f39ec8560ab0835d7a5a86
